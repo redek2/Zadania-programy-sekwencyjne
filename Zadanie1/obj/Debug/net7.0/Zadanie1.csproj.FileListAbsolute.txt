@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Zadania programy sekwencyjne\Zadanie1\bin\Debug\net7.0\Zadanie1.exe
+C:\Users\User\source\repos\Zadania programy sekwencyjne\Zadanie1\bin\Debug\net7.0\Zadanie1.deps.json
+C:\Users\User\source\repos\Zadania programy sekwencyjne\Zadanie1\bin\Debug\net7.0\Zadanie1.runtimeconfig.json
+C:\Users\User\source\repos\Zadania programy sekwencyjne\Zadanie1\bin\Debug\net7.0\Zadanie1.dll
+C:\Users\User\source\repos\Zadania programy sekwencyjne\Zadanie1\bin\Debug\net7.0\Zadanie1.pdb
+C:\Users\User\source\repos\Zadania programy sekwencyjne\Zadanie1\obj\Debug\net7.0\Zadanie1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Zadania programy sekwencyjne\Zadanie1\obj\Debug\net7.0\Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Zadania programy sekwencyjne\Zadanie1\obj\Debug\net7.0\Zadanie1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Zadania programy sekwencyjne\Zadanie1\obj\Debug\net7.0\Zadanie1.AssemblyInfo.cs
+C:\Users\User\source\repos\Zadania programy sekwencyjne\Zadanie1\obj\Debug\net7.0\Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Zadania programy sekwencyjne\Zadanie1\obj\Debug\net7.0\Zadanie1.dll
+C:\Users\User\source\repos\Zadania programy sekwencyjne\Zadanie1\obj\Debug\net7.0\refint\Zadanie1.dll
+C:\Users\User\source\repos\Zadania programy sekwencyjne\Zadanie1\obj\Debug\net7.0\Zadanie1.pdb
+C:\Users\User\source\repos\Zadania programy sekwencyjne\Zadanie1\obj\Debug\net7.0\Zadanie1.genruntimeconfig.cache
+C:\Users\User\source\repos\Zadania programy sekwencyjne\Zadanie1\obj\Debug\net7.0\ref\Zadanie1.dll
